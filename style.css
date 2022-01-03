@@ -9,3 +9,9 @@
     font-family: 'Times New Roman';
     background-color: blue;
 }
+.new_blog h2{
+    background-color: cornsilk;
+    color: black;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
